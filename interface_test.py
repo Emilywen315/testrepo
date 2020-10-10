@@ -13,3 +13,4 @@ assert result['message'] == "success"
 assert result['data']['name'] =="xiaomi14"
 #assert result['data']['address'] =="北京"
 
+print('hello world')
